@@ -19,7 +19,7 @@ Software Engineering student at **FPT University** with hands-on experience buil
 - Developed a responsive video-sharing and live-streaming frontend with Next.js App Router, React, TypeScript, and Tailwind CSS
 - Integrated **40+ REST API operations** across authentication, videos, channels, comments, likes, subscriptions, search, notifications, and livestream management
 
-### IT Support Intern · SmartLinkPOS · 2022-2023
+### IT Support Intern · SmartLinkPOS 
 
 - Supported and troubleshot web-based POS applications used in daily business operations
 - Reproduced software defects and shared actionable details with technical teams
